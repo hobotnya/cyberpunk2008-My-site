@@ -4,7 +4,7 @@
 - [Начальная настройка Maximus BBS](03-Maximus-BBS-setup/3.docx)
 - [Кастомитизация и первый запуск на реальном железе](04-first-run/4.docx)
 - [Приставка для соединения модемов без АТС](05-connection-without-ATE/5.docx)
-  [Печатная плата приставки которая заменяет АТС](05-connection-without-ATE/АТС.lay)
+- [Печатная плата приставки которая заменяет АТС](05-connection-without-ATE/АТС.lay)
 - Ссылка на драйвер http://old-dos.ru/files/file_55.html
 - Ссылка на Maximus BBS 3.0 http://old-dos.ru/files/file_53.html
 - Файловый менеджер http://old-dos.ru/index.php?page=files&mode=files&do=show&id=169
