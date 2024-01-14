@@ -1,5 +1,5 @@
 # Инструкция по работе и настройке Fossil и Maximus BBS
-- [[Настройка Fossil драйвера](01-fossil/1.docx)]
+- [Настройка Fossil драйвера](01-fossil/1.docx)
 - [Установка Maximus BBS](02-Maximus-BBS-install/2.docx)
 - [Начальная настройка Maximus BBS](03-Maximus-BBS-setup/3.docx)
 - [Кастомитизация и первый запуск на реальном железе](04-first-run/4.docx)
