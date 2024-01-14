@@ -8,6 +8,7 @@
 - Файловый менеджер http://old-dos.ru/index.php?page=files&mode=files&do=show&id=169
 - Текстовый редактор http://old-dos.ru/index.php?page=files&mode=files&do=show&id=3778
 - Русификатор http://old-dos.ru/index.php?page=files&mode=files&do=show&id=328
+- Для открытия файла АТС.lay нужна программа sprint layout 6 https://cxem.net/software/sprint_layout.php
 
 Для работы данного софта нужна OS MS DOS
 Для открытия файлов .docx может потребоваться Microsoft Office Word файлы созданы в версии 2007 года.
